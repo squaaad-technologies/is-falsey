@@ -1,0 +1,19 @@
+{
+  "name": "is-falsey",
+  "version": "1.0.0",
+  "description": "Checks if a value is 'falsey' or not.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/squaaad-technologies/is-falsey.git"
+  },
+  "author": "Jai @ squaaad technologies",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/squaaad-technologies/is-falsey/issues"
+  },
+  "homepage": "https://github.com/squaaad-technologies/is-falsey#readme"
+}
